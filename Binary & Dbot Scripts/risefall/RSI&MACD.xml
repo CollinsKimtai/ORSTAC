@@ -813,7 +813,7 @@
                 <field name="OP">EQ</field>
                 <value name="A">
                   <block type="variables_get" id=".Eu9J;J^~qOa3II`{Ck_">
-                    <field name="VAR">Password</field>
+<!--                     <field name="VAR">Password</field> -->
                   </block>
                 </value>
                 <value name="B">
